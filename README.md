@@ -1,6 +1,6 @@
 # Next Word Prediction using LSTM (Shakespeare's Hamlet Dataset)
 
-This project implements a next-word prediction model using Long Short-Term Memory (LSTM) networks, trained on the text from Shakespeare's Hamlet. The model is capable of generating the next probable word given a sequence of input words.
+This project implements a next-word prediction model using Long Short-Term Memory (LSTM) or Gated Recurrent Unit (GRU) networks, trained on the text from Shakespeare's Hamlet. The model is capable of generating the next probable word given a sequence of input words.
 
 ## Project Setup
 
